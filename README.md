@@ -34,7 +34,7 @@ apt-get -y install php openssh git wget
 `````
 git clone https://github.com/MR-ZIHAD/camPhish
 cd camPhish
-unzip camPhish.zip
+unzip camphish.zip
 Zip pass : MR-ZIHAD
 bash camphish.sh
 `````
